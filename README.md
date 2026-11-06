@@ -1,6 +1,6 @@
 # Royal Bank of Canada (RY) — Independent Equity Research
 
-![Presentation cover](assets/cover_preview.png)
+*The presentation preview and downloadable decks will appear here after the binary deliverables are uploaded.*
 
 **Independent equity research by Aamir Sohaib**  
 **Research cut-off:** 5 November 2026  
@@ -15,6 +15,8 @@ RBC combines scale, diversified earnings, strong capital and high profitability.
 An independently constructed, **illustrative—not a sell-side analyst—scenario analysis** uses FY2027 adjusted EPS assumptions, 14×–19× exit P/E values and an explicitly assumed US$0.723/C$ exchange rate. The resulting indicative share prices span **US$172 to US$261**, with a **~US$214 base case** compared with the **US$203.76 5-Nov-2026 close**. This is not a prediction or individualized investment recommendation; see [METHOD.md](METHOD.md).
 
 ## View the work
+
+> **Publication status:** The analysis, methodology, references and CSV data are uploaded. The four PowerPoint/PDF deliverables and supporting source/image assets are not yet in this repository; links below will work once the remaining files are uploaded. See [UPLOAD_REMAINING.md](UPLOAD_REMAINING.md).
 
 | Deliverable | File | Purpose |
 |---|---|---|
@@ -63,6 +65,8 @@ An independently constructed, **illustrative—not a sell-side analyst—scenari
 - The source deck's **two historical share-price chart graphics** were retained with permission from the author-supplied presentation. Their numerical end returns and the key correlations were independently checked against Alpaca data during the project review. Raw monthly/weekly price bars are *not* reproduced in this repository; recreating every plotted point requires authorized market-data access.
 
 ## Rebuild / customize
+
+> The Python build script and its graphical dependencies are part of the downloadable publication package but have not yet been uploaded into this repository.
 
 The slide-building source is `build_research.py` (Python / `python-pptx`). The chart assets are in `assets/`. For regeneration:
 
