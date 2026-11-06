@@ -25,4 +25,4 @@ This is independent educational research, not investment advice or a statement o
 
 **How to post**
 
-Upload `deliverables/RBC_LinkedIn_8_Slide_Carousel.pdf` as a **document** post on LinkedIn, not eight separate images. Give it the title **Royal Bank of Canada | Independent Equity Research**. Add the public GitHub URL above once the repository exists. Review the market-data date and price if you post substantially later than 5 November 2026.
+Upload `deliverables/RBC_LinkedIn_8_Slide_Carousel.pdf` as a **document** post on LinkedIn, not eight separate images. Give it the title **Royal Bank of Canada | Independent Equity Research**. The public GitHub URL is included above. Review the market-data date and price if you post substantially later than 5 November 2026.

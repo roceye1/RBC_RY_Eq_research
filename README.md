@@ -1,6 +1,6 @@
 # Royal Bank of Canada (RY) — Independent Equity Research
 
-*The presentation preview and downloadable decks will appear here after the binary deliverables are uploaded.*
+![Royal Bank of Canada equity research — presentation preview](assets/cover_preview.png)
 
 **Independent equity research by Aamir Sohaib**  
 **Research cut-off:** 5 November 2026  
@@ -15,8 +15,6 @@ RBC combines scale, diversified earnings, strong capital and high profitability.
 An independently constructed, **illustrative—not a sell-side analyst—scenario analysis** uses FY2027 adjusted EPS assumptions, 14×–19× exit P/E values and an explicitly assumed US$0.723/C$ exchange rate. The resulting indicative share prices span **US$172 to US$261**, with a **~US$214 base case** compared with the **US$203.76 5-Nov-2026 close**. This is not a prediction or individualized investment recommendation; see [METHOD.md](METHOD.md).
 
 ## View the work
-
-> **Publication status:** The analysis, methodology, references and CSV data are uploaded. The four PowerPoint/PDF deliverables and supporting source/image assets are not yet in this repository; links below will work once the remaining files are uploaded. See [UPLOAD_REMAINING.md](UPLOAD_REMAINING.md).
 
 | Deliverable | File | Purpose |
 |---|---|---|
@@ -66,8 +64,6 @@ An independently constructed, **illustrative—not a sell-side analyst—scenari
 
 ## Rebuild / customize
 
-> The Python build script and its graphical dependencies are part of the downloadable publication package but have not yet been uploaded into this repository.
-
 The slide-building source is `build_research.py` (Python / `python-pptx`). The chart assets are in `assets/`. For regeneration:
 
 ```bash
@@ -85,4 +81,4 @@ This is an **independent educational case study**. It is not affiliated with, co
 
 ## Repository status
 
-This repository is the public home for the project. The PDFs, editable decks, research data, methodology, and supporting assets are maintained here. The original publishing scripts in the research package are for initializing a new repository and should not be run against this already-created repository.
+This is the complete public project: the full PDF report, editable decks, LinkedIn carousel, source generator, charts, data, methods, and attribution notes are available above. Figures reflect the stated November 5, 2026 research cut-off; they are not live market quotes.
